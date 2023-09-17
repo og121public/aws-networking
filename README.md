@@ -25,8 +25,7 @@
 -   Evaluating requirements of global inbound and outbound traffic from
     the internet to design an appropriate content distribution solution
 
-### 1.2: Design DNS solutions that meet public, private, and hybrid
-requirements. Knowledge of:
+### 1.2: Design DNS solutions that meet public, private, and hybrid requirements.
 
 -   DNS protocol (for example, DNS records, timers, DNSSEC, DNS
     delegation, zones)
@@ -169,8 +168,7 @@ requirements. Knowledge of:
 
 ## 2: Network Implementation
 
-### 2.1: Implement routing and connectivity between on-premises networks and
-the AWS Cloud.
+### 2.1: Implement routing and connectivity between on-premises networks and the AWS Cloud.
 
 -   Routing protocols (for example, static, dynamic)
 
@@ -300,7 +298,7 @@ the AWS Cloud.
 
 -   Configuring DNS monitoring and logging on Route 53
 
-### 2.4: Automate and configure network infrastructure. Knowledge of:
+### 2.4: Automate and configure network infrastructure.
 
 -   Infrastructure as code (IaC) (for example, AWS Cloud Development Kit
     \[AWS CDK\], AWS CloudFormation, AWS CLI, AWS SDK, APIs)
@@ -396,7 +394,7 @@ the AWS Cloud.
 -   Troubleshooting packet size mismatches in a VPC to restore network
     connectivity
 
-### 3.3: Optimize AWS networks for performance, reliability, and cost-effectiveness. Knowledge of:
+### 3.3: Optimize AWS networks for performance, reliability, and cost-effectiveness.
 
 -   Situations in which a VPC peer or a transit gateway are appropriate
 
@@ -490,7 +488,7 @@ the AWS Cloud.
 
 -   Automating security incident reporting and alerting using AWS
 
-### 4.2: Validate and audit security by using network monitoring and logging services. Knowledge of:
+### 4.2: Validate and audit security by using network monitoring and logging services.
 
 -   Network monitoring and logging services that are available in AWS
     (for example, CloudWatch, AWS CloudTrail, VPC Traffic Mirroring, VPC
